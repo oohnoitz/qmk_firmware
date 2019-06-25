@@ -5,7 +5,7 @@ extern keymap_config_t keymap_config;
 #define _QWERTY 0
 #define _LOWER 1
 #define _RAISE 2
-#define _ADJUST 16
+#define _ADJUST 3
 
 #define KC_ESCC LCTL_T(KC_ESC)
 #define KC_ENTS RSFT_T(KC_ENT)
